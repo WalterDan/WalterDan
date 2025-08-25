@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WalterDan
-- 👀 I am your Data Analyst and Business Intelligence expert
+- 👀 I am your Data Analysis and Business Intelligence expert
 - 💞️ I’m here to help businesses and cross functional teams make decisions, backed by data.
 - 📫 How to reach me www.linkedin.com/in/walter-daniel-godswill
 <!---
